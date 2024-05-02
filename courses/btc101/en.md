@@ -10,6 +10,7 @@ objectives:
 ---
 
 # Your First Bitcoin Adventure
+this is a test
 
 In this course, I will explain Bitcoin in 21 chapters so that you can understand this technology in a simple and effective way. The course is accessible to everyone and explores the industry as a whole: miners, wallets, buying/selling platforms, etc...
 
