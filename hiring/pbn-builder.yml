@@ -1,0 +1,70 @@
+# Characteristic of PBN Builder
+username: asi0
+
+# use https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris
+
+# ways to contact you, leave empty if not present
+contact:
+  - mail: asi0@decouvrebitcoin.com
+  - twitter: asi0_flammeus
+  - telegram: asi0_flammeus
+  - github: asi0_flammeus
+  - PBN_mattermost: asi0
+  - signal: asi0
+  - phone: 
+  - if_emergency_use: 
+    - signal
+  
+# Lanaguage spoken with the evaluated level from 0.00 to 1.00
+languages:
+  - fr: 1.00
+  - en: 0.80
+  - es: 0.66
+
+# up to 10 abilities, min 3 
+abilities:
+  - problem-solving
+  - resourceful
+  - scientific reasonning
+  - action-oriented
+  - intuitive understanding
+  - fast-learner
+
+# up to 10 weaknesses, min 3 
+weaknesses:
+  - priority confusion
+  - black-hole focus 
+  - theory-inclined
+  - excessive commitment
+  - difficulty to delegate
+
+# The more, the better (at least 3 soft and 3 hard) and assign level from 0.00 to 1.00
+skills:
+  - hard: 
+    - python: 0.70
+    - bash: 0.33
+    - logistic: 0.50
+    - accounting: 0.25
+    - bitcoin-understanding: 0.70
+    - large-language-model: 0.45
+  - soft: 
+    - critical thinking: 0.70
+    - leadership: 0.66
+    - management: 0.66
+    - journalling: 0.80
+    - adaptability: 0.90
+    - organization: 0.70
+    - patience: 0.80
+
+# what activities you like to do on your free time
+activities:
+  - reading
+  - hiking
+  - climbing
+  - never-ending discussion with friends
+
+# past projects you proud of and/or from which you have learned a lot
+past_projects:
+  - Translation of TimeChain Codex
+	  - https://workspace.decouvrebitcoin.com/s/qqrSKG9gHe6YK7j
